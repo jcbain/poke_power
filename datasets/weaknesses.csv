@@ -1,0 +1,324 @@
+Normal , Normal , normal effectiveness
+Normal , Fire , normal effectiveness
+Normal , Water , normal effectiveness
+Normal , Electric , normal effectiveness
+Normal , Grass , normal effectiveness
+Normal , Ice , normal effectiveness
+Normal , Fighting , normal effectiveness
+Normal , Poison , normal effectiveness
+Normal , Ground , normal effectiveness
+Normal , Flying , normal effectiveness
+Normal , Psychic , normal effectiveness
+Normal , Bug , normal effectiveness
+Normal , Rock , not very effective
+Normal , Ghost , no effect
+Normal , Dragon , normal effectiveness
+Normal , Dark , normal effectiveness
+Normal , Steel , not very effective
+Normal , Fairy , normal effectiveness
+Fire , Normal , normal effectiveness
+Fire , Fire , not very effective
+Fire , Water , not very effective
+Fire , Electric , normal effectiveness
+Fire , Grass , super-effective
+Fire , Ice , super-effective
+Fire , Fighting , normal effectiveness
+Fire , Poison , normal effectiveness
+Fire , Ground , normal effectiveness
+Fire , Flying , normal effectiveness
+Fire , Psychic , normal effectiveness
+Fire , Bug , super-effective
+Fire , Rock , not very effective
+Fire , Ghost , normal effectiveness
+Fire , Dragon , not very effective
+Fire , Dark , normal effectiveness
+Fire , Steel , super-effective
+Fire , Fairy , normal effectiveness
+Water , Normal , normal effectiveness
+Water , Fire , super-effective
+Water , Water , not very effective
+Water , Electric , normal effectiveness
+Water , Grass , not very effective
+Water , Ice , normal effectiveness
+Water , Fighting , normal effectiveness
+Water , Poison , normal effectiveness
+Water , Ground , super-effective
+Water , Flying , normal effectiveness
+Water , Psychic , normal effectiveness
+Water , Bug , normal effectiveness
+Water , Rock , super-effective
+Water , Ghost , normal effectiveness
+Water , Dragon , not very effective
+Water , Dark , normal effectiveness
+Water , Steel , normal effectiveness
+Water , Fairy , normal effectiveness
+Electric , Normal , normal effectiveness
+Electric , Fire , normal effectiveness
+Electric , Water , super-effective
+Electric , Electric , not very effective
+Electric , Grass , not very effective
+Electric , Ice , normal effectiveness
+Electric , Fighting , normal effectiveness
+Electric , Poison , normal effectiveness
+Electric , Ground , no effect
+Electric , Flying , super-effective
+Electric , Psychic , normal effectiveness
+Electric , Bug , normal effectiveness
+Electric , Rock , normal effectiveness
+Electric , Ghost , normal effectiveness
+Electric , Dragon , not very effective
+Electric , Dark , normal effectiveness
+Electric , Steel , normal effectiveness
+Electric , Fairy , normal effectiveness
+Grass , Normal , normal effectiveness
+Grass , Fire , not very effective
+Grass , Water , super-effective
+Grass , Electric , normal effectiveness
+Grass , Grass , not very effective
+Grass , Ice , normal effectiveness
+Grass , Fighting , normal effectiveness
+Grass , Poison , not very effective
+Grass , Ground , super-effective
+Grass , Flying , not very effective
+Grass , Psychic , normal effectiveness
+Grass , Bug , not very effective
+Grass , Rock , super-effective
+Grass , Ghost , normal effectiveness
+Grass , Dragon , not very effective
+Grass , Dark , normal effectiveness
+Grass , Steel , not very effective
+Grass , Fairy , normal effectiveness
+Ice , Normal , normal effectiveness
+Ice , Fire , not very effective
+Ice , Water , not very effective
+Ice , Electric , normal effectiveness
+Ice , Grass , super-effective
+Ice , Ice , not very effective
+Ice , Fighting , normal effectiveness
+Ice , Poison , normal effectiveness
+Ice , Ground , super-effective
+Ice , Flying , super-effective
+Ice , Psychic , normal effectiveness
+Ice , Bug , normal effectiveness
+Ice , Rock , normal effectiveness
+Ice , Ghost , normal effectiveness
+Ice , Dragon , super-effective
+Ice , Dark , normal effectiveness
+Ice , Steel , not very effective
+Ice , Fairy , normal effectiveness
+Fighting , Normal , super-effective
+Fighting , Fire , normal effectiveness
+Fighting , Water , normal effectiveness
+Fighting , Electric , normal effectiveness
+Fighting , Grass , normal effectiveness
+Fighting , Ice , super-effective
+Fighting , Fighting , normal effectiveness
+Fighting , Poison , not very effective
+Fighting , Ground , normal effectiveness
+Fighting , Flying , not very effective
+Fighting , Psychic , not very effective
+Fighting , Bug , not very effective
+Fighting , Rock , super-effective
+Fighting , Ghost , no effect
+Fighting , Dragon , normal effectiveness
+Fighting , Dark , super-effective
+Fighting , Steel , super-effective
+Fighting , Fairy , not very effective
+Poison , Normal , normal effectiveness
+Poison , Fire , normal effectiveness
+Poison , Water , normal effectiveness
+Poison , Electric , normal effectiveness
+Poison , Grass , super-effective
+Poison , Ice , normal effectiveness
+Poison , Fighting , normal effectiveness
+Poison , Poison , not very effective
+Poison , Ground , not very effective
+Poison , Flying , normal effectiveness
+Poison , Psychic , normal effectiveness
+Poison , Bug , normal effectiveness
+Poison , Rock , not very effective
+Poison , Ghost , not very effective
+Poison , Dragon , normal effectiveness
+Poison , Dark , normal effectiveness
+Poison , Steel , no effect
+Poison , Fairy , super-effective
+Ground , Normal , normal effectiveness
+Ground , Fire , super-effective
+Ground , Water , normal effectiveness
+Ground , Electric , super-effective
+Ground , Grass , not very effective
+Ground , Ice , normal effectiveness
+Ground , Fighting , normal effectiveness
+Ground , Poison , super-effective
+Ground , Ground , normal effectiveness
+Ground , Flying , no effect
+Ground , Psychic , normal effectiveness
+Ground , Bug , not very effective
+Ground , Rock , super-effective
+Ground , Ghost , normal effectiveness
+Ground , Dragon , normal effectiveness
+Ground , Dark , normal effectiveness
+Ground , Steel , super-effective
+Ground , Fairy , normal effectiveness
+Flying , Normal , normal effectiveness
+Flying , Fire , normal effectiveness
+Flying , Water , normal effectiveness
+Flying , Electric , not very effective
+Flying , Grass , super-effective
+Flying , Ice , normal effectiveness
+Flying , Fighting , super-effective
+Flying , Poison , normal effectiveness
+Flying , Ground , normal effectiveness
+Flying , Flying , normal effectiveness
+Flying , Psychic , normal effectiveness
+Flying , Bug , super-effective
+Flying , Rock , not very effective
+Flying , Ghost , normal effectiveness
+Flying , Dragon , normal effectiveness
+Flying , Dark , normal effectiveness
+Flying , Steel , not very effective
+Flying , Fairy , normal effectiveness
+Psychic , Normal , normal effectiveness
+Psychic , Fire , normal effectiveness
+Psychic , Water , normal effectiveness
+Psychic , Electric , normal effectiveness
+Psychic , Grass , normal effectiveness
+Psychic , Ice , normal effectiveness
+Psychic , Fighting , super-effective
+Psychic , Poison , super-effective
+Psychic , Ground , normal effectiveness
+Psychic , Flying , normal effectiveness
+Psychic , Psychic , not very effective
+Psychic , Bug , normal effectiveness
+Psychic , Rock , normal effectiveness
+Psychic , Ghost , normal effectiveness
+Psychic , Dragon , normal effectiveness
+Psychic , Dark , no effect
+Psychic , Steel , not very effective
+Psychic , Fairy , normal effectiveness
+Bug , Normal , normal effectiveness
+Bug , Fire , not very effective
+Bug , Water , normal effectiveness
+Bug , Electric , normal effectiveness
+Bug , Grass , super-effective
+Bug , Ice , normal effectiveness
+Bug , Fighting , not very effective
+Bug , Poison , not very effective
+Bug , Ground , normal effectiveness
+Bug , Flying , not very effective
+Bug , Psychic , super-effective
+Bug , Bug , normal effectiveness
+Bug , Rock , normal effectiveness
+Bug , Ghost , not very effective
+Bug , Dragon , normal effectiveness
+Bug , Dark , super-effective
+Bug , Steel , not very effective
+Bug , Fairy , not very effective
+Rock , Normal , normal effectiveness
+Rock , Fire , super-effective
+Rock , Water , normal effectiveness
+Rock , Electric , normal effectiveness
+Rock , Grass , normal effectiveness
+Rock , Ice , super-effective
+Rock , Fighting , not very effective
+Rock , Poison , normal effectiveness
+Rock , Ground , not very effective
+Rock , Flying , super-effective
+Rock , Psychic , normal effectiveness
+Rock , Bug , super-effective
+Rock , Rock , normal effectiveness
+Rock , Ghost , normal effectiveness
+Rock , Dragon , normal effectiveness
+Rock , Dark , normal effectiveness
+Rock , Steel , not very effective
+Rock , Fairy , normal effectiveness
+Ghost , Normal , no effect
+Ghost , Fire , normal effectiveness
+Ghost , Water , normal effectiveness
+Ghost , Electric , normal effectiveness
+Ghost , Grass , normal effectiveness
+Ghost , Ice , normal effectiveness
+Ghost , Fighting , normal effectiveness
+Ghost , Poison , normal effectiveness
+Ghost , Ground , normal effectiveness
+Ghost , Flying , normal effectiveness
+Ghost , Psychic , super-effective
+Ghost , Bug , normal effectiveness
+Ghost , Rock , normal effectiveness
+Ghost , Ghost , super-effective
+Ghost , Dragon , normal effectiveness
+Ghost , Dark , not very effective
+Ghost , Steel , normal effectiveness
+Ghost , Fairy , normal effectiveness
+Dragon , Normal , normal effectiveness
+Dragon , Fire , normal effectiveness
+Dragon , Water , normal effectiveness
+Dragon , Electric , normal effectiveness
+Dragon , Grass , normal effectiveness
+Dragon , Ice , normal effectiveness
+Dragon , Fighting , normal effectiveness
+Dragon , Poison , normal effectiveness
+Dragon , Ground , normal effectiveness
+Dragon , Flying , normal effectiveness
+Dragon , Psychic , normal effectiveness
+Dragon , Bug , normal effectiveness
+Dragon , Rock , normal effectiveness
+Dragon , Ghost , normal effectiveness
+Dragon , Dragon , super-effective
+Dragon , Dark , normal effectiveness
+Dragon , Steel , not very effective
+Dragon , Fairy , no effect
+Dark , Normal , normal effectiveness
+Dark , Fire , normal effectiveness
+Dark , Water , normal effectiveness
+Dark , Electric , normal effectiveness
+Dark , Grass , normal effectiveness
+Dark , Ice , normal effectiveness
+Dark , Fighting , not very effective
+Dark , Poison , normal effectiveness
+Dark , Ground , normal effectiveness
+Dark , Flying , normal effectiveness
+Dark , Psychic , super-effective
+Dark , Bug , normal effectiveness
+Dark , Rock , normal effectiveness
+Dark , Ghost , super-effective
+Dark , Dragon , normal effectiveness
+Dark , Dark , not very effective
+Dark , Steel , normal effectiveness
+Dark , Fairy , not very effective
+Steel , Normal , normal effectiveness
+Steel , Fire , not very effective
+Steel , Water , not very effective
+Steel , Electric , not very effective
+Steel , Grass , normal effectiveness
+Steel , Ice , super-effective
+Steel , Fighting , normal effectiveness
+Steel , Poison , normal effectiveness
+Steel , Ground , normal effectiveness
+Steel , Flying , normal effectiveness
+Steel , Psychic , normal effectiveness
+Steel , Bug , normal effectiveness
+Steel , Rock , super-effective
+Steel , Ghost , normal effectiveness
+Steel , Dragon , normal effectiveness
+Steel , Dark , normal effectiveness
+Steel , Steel , not very effective
+Steel , Fairy , super-effective
+Fairy , Normal , normal effectiveness
+Fairy , Fire , not very effective
+Fairy , Water , normal effectiveness
+Fairy , Electric , normal effectiveness
+Fairy , Grass , normal effectiveness
+Fairy , Ice , normal effectiveness
+Fairy , Fighting , super-effective
+Fairy , Poison , not very effective
+Fairy , Ground , normal effectiveness
+Fairy , Flying , normal effectiveness
+Fairy , Psychic , normal effectiveness
+Fairy , Bug , normal effectiveness
+Fairy , Rock , normal effectiveness
+Fairy , Ghost , normal effectiveness
+Fairy , Dragon , super-effective
+Fairy , Dark , super-effective
+Fairy , Steel , not very effective
+Fairy , Fairy , normal effectiveness
